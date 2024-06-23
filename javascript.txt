@@ -1,0 +1,5 @@
+// This file can be used for client-side scripting if needed
+// For example, handling dynamic content loading or form validation
+// This is optional for a basic store setup
+
+// Example JavaScript can be added for functionality like product filtering, form validation, etc.
